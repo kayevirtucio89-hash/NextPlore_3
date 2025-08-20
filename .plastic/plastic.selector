@@ -1,0 +1,4 @@
+repository "NextPlore/NextPlore 2025-07-07_11-58-45@20067497055824@cloud"
+  path "/"
+    br "/main"
+    co "/main"
